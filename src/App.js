@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-         My awesome react app at Blockspace Technologies aka blockspace,africa. </p>
+         Chuta's awesome react app for Blockspace Technologies aka blockspace, africa uploaded to github </p>
        
       </header>
     </div>
